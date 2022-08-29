@@ -1,0 +1,39 @@
+Speaker ID: DCB_se1_ag2_m_03_2
+There are 28 tokens of 'ain't'.
+They are: 
+156.2388 	 Nah, nah, nah, I ain't[AA0] really with the superhero person, you know what I'm saying. I was more so like try to be like 
+ 174.7026 	 So I ain't[AA0] really looking at superhero whole little, you know, thing. 
+ 304.2802 	 [Yeah like] you ain't[AA0] nowhere. 
+ 307.6368 	 [You ain't[AA0] nowhere.] 
+ 367.7436 	 Nah, I mean, you know, I try, you know, I ain't[AAQ] never- you know, ain't[AB0] really- You know, I got my own style I guess you could call it, you [know.] 
+ 367.7436 	 Nah, I mean, you know, I try, you know, I ain't[AAQ] never- you know, ain't[AB0] really- You know, I got my own style I guess you could call it, you [know.] 
+ 378.8260 	 [Nah, nah], you know, I ain't-[AAQ] it ain't[AA0] nothing spontaneous or nothing, you know, over the boat. 
+ 378.8260 	 [Nah, nah], you know, I ain't-[AAQ] it ain't[AA0] nothing spontaneous or nothing, you know, over the boat. 
+ 531.7927 	 So my brother just going with it, you know what I'm saying, like my brother said he told her like his name was /RD-NAME-3/ but she just kept saying his name was d- like- She ain't[AB0] even say his name was /RD-NAME-2/ but like his name was /RD-NAME-2/ b- just because 
+ 581.2808 	 [I- like I like- /nah it ain't[AA0] trying-/ I'm trying-] I'm not trying to swell like, I'm trying to keep it real [like, out there out] there I'm trying to keep it real but I don't wanna, you know what I'm saying like, the c- 
+ 590.9552 	 [Nah, not like, you know, yeah, no] [I ain't[AA0] trying to incriminate nobody.] 
+ 630.1149 	 my name /RD-NAME-2/, I ain't[AA0] in it, so they be like, yeah what's your real fucking name? So it's just like, 
+ 667.8399 	 but they still locked me up, so I ain't[AB0] need peep the shit, took my fingerprint and everything. 
+ 841.4529 	 And it be like, /know what I'm saying/- you know what I'm saying, little brother be competition, you know what I'm saying, I ain't[AA0] gonna say like, petty petty, but, you know what I'm saying, /it wouldn't be like, oh yeah./ Like I remember like me /rolled out/ 
+ 905.7112 	 He like, yeah, I ain't[AA0] nowhere. 
+ 1090.9600 	 [Just a] little sort of I know what the- you know, couple notes and everything, but other than that, I be like, yeah I don't know, you ain't[AA0] nowhere. 
+ 1109.7012 	 [Oh man], you know, /nu/- you ain't nowhere, it's like 
+ 1113.3083 	 you ain't[AA0] nowhere, you ain't-[AA0] you ain't-[AA0] like, where you at now you somewhere, but you ain't[AA0] nowhere. It's like- 
+ 1113.3083 	 you ain't[AA0] nowhere, you ain't-[AA0] you ain't-[AA0] like, where you at now you somewhere, but you ain't[AA0] nowhere. It's like- 
+ 1113.3083 	 you ain't[AA0] nowhere, you ain't-[AA0] you ain't-[AA0] like, where you at now you somewhere, but you ain't[AA0] nowhere. It's like- 
+ 1113.3083 	 you ain't[AA0] nowhere, you ain't-[AA0] you ain't-[AA0] like, where you at now you somewhere, but you ain't[AA0] nowhere. It's like- 
+ 1140.9916 	 you ain't[AA0] nowhere, you know. 
+ 1146.8386 	 you know what I'm saying, you know how I mean, you know, you ain't[AA0] nowhere, man. 
+ 1159.6385 	 You ain't[AA0] nowhere, man. 
+ 1161.0152 	 You know what I'm saying, gotta cut it short right there like, you ain't[AA0] nowhere. 
+ 1180.5574 	 Yeah they ain't[AA0] nowhere, man, you [know /what I'm saying./] 
+ 1183.3855 	 Yeah you used it right, you ain't-[AA0] they ain't[AA0] nowhere, you know what I'm saying, cause it'd be tighter if they was up 
+ 1183.3855 	 Yeah you used it right, you ain't-[AA0] they ain't[AA0] nowhere, you know what I'm saying, cause it'd be tighter if they was up 
+ 
+There are 1 tokens of Are+not and is+not in contracted or full form.
+They are: 
+258.5791 	 as much of- you know what I'm saying, it's not[AA1] balanced or nothing so it's like I'm just- [/I mean,/ always trying [to-] 
+ 
+There are 0 tokens of Have+not in contracted or full form.
+
+There are 0 tokens of Did+not in full or contracted form.

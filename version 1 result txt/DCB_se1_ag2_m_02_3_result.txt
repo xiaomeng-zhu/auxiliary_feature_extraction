@@ -1,0 +1,11 @@
+Speaker ID: DCB_se1_ag2_m_02_3
+There are 2 tokens of 'ain't'.
+They are: 
+203.4367 	 Like I- my cousin, he was good at it though. He could play the drums, but I- I don't know, my rhythm was just off or something. I ain't never [really good-] I- I played the trumpet though. 
+ 213.7159 	 I ain't never really was good at no drums. 
+ 
+There are 0 tokens of Are+not and is+not in contracted or full form.
+
+There are 0 tokens of Have+not in contracted or full form.
+
+There are 0 tokens of Did+not in full or contracted form.

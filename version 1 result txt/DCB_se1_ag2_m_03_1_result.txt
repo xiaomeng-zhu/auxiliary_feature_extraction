@@ -1,0 +1,49 @@
+Speaker ID: DCB_se1_ag2_m_03_1
+There are 2 tokens of 'ain't'.
+They are: 
+149.2326 	 Man, my man he told me, he said something yesterday, I ain't[AB0] know what he was talking about, but 
+ 728.7879 	 what I- like I said man what's understood ain't[AA0] gotta be explained, big dog, you know. 
+ 
+There are 4 tokens of type AA1.
+They are: 
+22.8697 	 cause it's not[AA1] really a y- a, you know, a neighborhood, it's more so a community, you know. 
+ 305.8165 	 You know, you [ask who's who I'm not] gonna tell you but, [you know.] 
+ 394.4585 	 I'm not sure what school. 
+ 770.1173 	 it's not[AA1] mainstream, it's basically like- like I said, our neighborhood lingo and whatnot. And it's like, 
+ 
+There are 19 tokens of type AA2.
+They are: 
+121.2087 	 back then to now it's just things has changed from dog to Joe to, 
+ 176.6001 	 I mean, you know, I don't use that on my, you know, daily vocabulary but, you know, I- like I said man, it just like- you know, it's in the moment. 
+ 184.1316 	 I don't think none of it's gonna last. 
+ 196.9724 	 I do landscaping, 
+ 244.1749 	 some things that I can manage, you know, like I said I'm just starting, I don't really have the big 
+ 244.1749 	 some things that I can manage, you know, like I said I'm just starting, I don't really have the big 
+ 271.3213 	 you know, I try to do work twenty-four, you know, 
+ 273.7712 	 three sixty-five, all year round. So I do landscaping in the summer, 
+ 281.3661 	 Try to get you, you know, gutters and everything. You know, I do it all. I guess you could call it a enterprise, you know what I mean. 
+ 383.8099 	 I don't even know what school he going to. It's- 
+ 452.4232 	 Yeah I don't know. 
+ 569.3771 	 people used to be like- or the teacher'd be like yeah, you know, what did you and your father do or whatever. Just be like, damn I'm blown out, you know what I'm saying. But at the same time it was just like, 
+ 577.7202 	 you know, like I heard stories about a dude that was just like, damn, like, you know, I don't even have pictures to see or, you know, like- 
+ 577.7202 	 you know, like I heard stories about a dude that was just like, damn, like, you know, I don't even have pictures to see or, you know, like- 
+ 639.8823 	 It's like I don't never see them, I haven't[AA2] really met them. 
+ 639.8823 	 It's like I don't never see them, I haven't[AA2] really met them. 
+ 737.4739 	 I mean, you know, like you lunch, like, you know, like you lunch, don't lunch, you know, like, I mean, you know, I can't even explain it. It's just like- 
+ 800.3108 	 I can't tell you all that, man, you know if I c- uh, if I tell you [I gotta kill you and, you know, I don't wanna do it like that.] 
+ 800.3108 	 I can't tell you all that, man, you know if I c- uh, if I tell you [I gotta kill you and, you know, I don't wanna do it like that.] 
+ 
+There are 2 tokens of type AB1.
+They are: 
+433.8894 	 She was- you know, she did hair and whatnot. 
+ 569.3771 	 people used to be like- or the teacher'd be like yeah, you know, what did you and your father do or whatever. Just be like, damn I'm blown out, you know what I'm saying. But at the same time it was just like, 
+ 
+There are 6 tokens of type CO2.
+They are: 
+136.8990 	 Mo is like, what up Mo? Like, what up, you know, 
+ 157.2154 	 It was just crazy, I was just like, man [what are you talking about?] 
+ 160.6420 	 Yeah, nah he- he said something, I was just like, man what are you talking about? Like it was something new to me. 
+ 458.6067 	 I was about to say I never understood like what she was saying or what she was- you know, like what she trying to- what was sh- the point she was trying to get across until like, later, you know what I'm saying, [/which is ?/.] 
+ 489.7512 	 what the situation is or what needs to be done, it's no- You know, family's first and, you know, just gotta get the job done and, 
+ 592.0892 	 So, you know, it is what it is. 
+ 

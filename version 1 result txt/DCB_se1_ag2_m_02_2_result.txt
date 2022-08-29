@@ -1,0 +1,16 @@
+Speaker ID: DCB_se1_ag2_m_02_2
+There are 4 tokens of 'ain't'.
+They are: 
+117.5904 	 Ain't nobody else in here aksing no question. 
+ 124.1708 	 boy why you aksing me all these questions? Ain't nobody else in here aksing no question. 
+ 131.5512 	 And I- just- That was just me being young. I- I ain't really know, but at some point, I- I kind of like 
+ 620.7488 	 oh that chicken big and that chicken something ain't right here. 
+ 
+There are 0 tokens of Are+not and is+not in contracted or full form.
+
+There are 0 tokens of Have+not in contracted or full form.
+
+There are 1 tokens of Did+not in full or contracted form.
+They are: 
+324.9316 	 I spoke to him- Like I didn't disrespect him. I- I- You know what I mean? I spoke to him 
+ 
